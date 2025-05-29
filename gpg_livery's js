@@ -412,6 +412,7 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
                     "name": "GPG test fedex",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
